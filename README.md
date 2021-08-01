@@ -1,5 +1,5 @@
 # Laravel 6-7-8 TCPDF
-[![Latest Stable Version](https://poser.pugx.org/manoj11patel/laravel-tcpdf/v/stable)](https://packagist.org/packages/manoj11patel/laravel-tcpdf) [![Total Downloads](https://poser.pugx.org/manoj11patel/laravel-tcpdf/downloads)](https://packagist.org/packages/manoj11patel/laravel-tcpdf) [![Latest Unstable Version](https://poser.pugx.org/manoj11patel/laravel-tcpdf/v/unstable)](https://packagist.org/packages/manoj11patel/laravel-tcpdf) [![License](https://poser.pugx.org/manoj11patel/laravel-tcpdf/license)](https://packagist.org/packages/manoj11patel/laravel-tcpdf)
+[![Latest Stable Version](https://poser.pugx.org/manoj11patel/easy-pdf-for-laravel/v/stable)](https://packagist.org/packages/manoj11patel/easy-pdf-for-laravel) [![Total Downloads](https://poser.pugx.org/manoj11patel/easy-pdf-for-laravel/downloads)](https://packagist.org/packages/manoj11patel/easy-pdf-for-laravel) [![Latest Unstable Version](https://poser.pugx.org/manoj11patel/easy-pdf-for-laravel/v/unstable)](https://packagist.org/packages/manoj11patel/easy-pdf-for-laravel) [![License](https://poser.pugx.org/manoj11patel/easy-pdf-for-laravel/license)](https://packagist.org/packages/manoj11patel/easy-pdf-for-laravel)
 
 A simple [Laravel](http://www.laravel.com) service provider with some basic configuration for including the [TCPDF library](http://www.tcpdf.org/)
 
@@ -7,10 +7,10 @@ A simple [Laravel](http://www.laravel.com) service provider with some basic conf
 
 ## Installation
 
-The Laravel TCPDF service provider can be installed via [composer](http://getcomposer.org) by requiring the `manoj11patel/laravel-tcpdf` package in your project's `composer.json`. (The installation may take a while, because the package requires TCPDF. Sadly its .git folder is very heavy)
+The Laravel TCPDF service provider can be installed via [composer](http://getcomposer.org) by requiring the `manoj11patel/easy-pdf-for-laravel` package in your project's `composer.json`. (The installation may take a while, because the package requires TCPDF. Sadly its .git folder is very heavy)
 
 ```
-composer require manoj11patel/laravel-tcpdf
+composer require manoj11patel/easy-pdf-for-laravel
 ```
 
 or
@@ -20,7 +20,7 @@ Laravel 5.5+ will use the auto-discovery function.
 ```json
 {
     "require": {
-        "manoj11patel/laravel-tcpdf": "^8.0"
+        "manoj11patel/easy-pdf-for-laravel": "^8.0"
     }
 }
 ```

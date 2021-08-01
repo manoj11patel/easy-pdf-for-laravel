@@ -1,6 +1,6 @@
 
 {
-  "name": "manoj11patel/laravel-tcpdf",
+  "name": "manoj11patel/easy-pdf-for-laravel",
   "description": "TCPDF library for Laravel for all the latest versions",
   "minimum-stability": "stable",
   "license": "MIT",
